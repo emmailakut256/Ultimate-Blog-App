@@ -1,0 +1,15 @@
+.edit {
+    color: blue;
+}
+
+
+/* disable textarea resize */
+
+textarea#body {
+    resize: none;
+}
+
+button.postCancelButton {
+    color: black;
+    background-color: aliceblue;
+}
